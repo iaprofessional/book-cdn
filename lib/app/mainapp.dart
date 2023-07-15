@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart'; //quiz.dart is a lib I imported
 import 'package:quizalloop/app/quiz.dart';
 import 'package:resize/resize.dart';
 import 'package:google_fonts/google_fonts.dart';
